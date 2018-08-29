@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TP</string>
+    <string name="nome">Nome</string>
+    <string name="email">Email</string>
+    <string name="telefone">Telefone</string>
+    <string name="endereço">Endereço</string>
+    <string name="dados">Dados</string>
+    <string name="wpp">wpp</string>
+    <string name="eemail">email</string>
+    <string name="end">end</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="seta">-></string>
+    <string name="seta2">&lt;-</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="importar">Importar</string>
+</resources>
